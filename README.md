@@ -1,2 +1,3 @@
 # xclmspace
-An intelligent vision-based line-following robot developed on the D-Robotics platform with ROS 2, featuring QR-code route planning, yellow-lane tracking, dynamic obstacle avoidance, and Qwen-powered recognition and voice descriptions of people and anime images.
+
+一款基于地瓜机器人平台与 ROS 2 开发的智能视觉巡线车，具备二维码路线规划、黄色通道巡线、动态障碍物避让，以及基于千问大模型的人物与动漫图像识别和语音描述功能。
